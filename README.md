@@ -36,9 +36,6 @@ Acompanhamento dos trabalhos entregues durante o semestre:
 | CP | Descrição do Projeto | Pasta | Status |
 | :-: | :--- | :-: | :-: |
 | 1 | 🛡️ Elaboração de Política de Segurança da Informação (PSI) | [📁 CP1](./CP1) | ✅ Finalizado |
-| 2 | 🔐 Gestão de Identidade e Acesso (IAM) | [📁 CP2](#) | 🕒 Previsto |
-| 3 | 🔍 Análise de Vulnerabilidades e Gestão de Riscos | [📁 CP3](#) | 🕒 Previsto |
-| 4 | 🚧 Em breve... | - | ⚪ Pendente |
 
 ---
 
