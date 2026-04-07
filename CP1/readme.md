@@ -1,4 +1,4 @@
-# <div align="center"> <img src="https://logodownload.org/wp-content/uploads/2021/06/fiap-logo-1.png" alt="FIAP Logo" width="200" /> <br> 🛡️ Security Management: CP-1 </div>
+# <div align="center"> <img src="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_FIAP.png" alt="FIAP Logo" width="200" /> <br> 🛡️ Security Management: CP-1 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge&logo=checkmarx" alt="Status" />
