@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./assets/banner.png" alt="Security Management Banner" width="1003" />
   <br>
-  <img src="./assets/fiap-logo.png" alt="FIAP Logo" width="200" />
-  <br>
+
   <h1>🔒 Security Management, IAM & Vulnerability 1SM-2026</h1>
 </div>
 
@@ -15,6 +14,7 @@
 ---
 
 ### 👤 Identificação do Aluno
+
 <div align="center">
 <table>
   <tr>
@@ -31,6 +31,7 @@
 ---
 
 ### 📂 Índice de CheckPoints (CPs)
+
 Acompanhamento dos trabalhos entregues durante o semestre:
 
 | CP | Descrição do Projeto | Pasta | Status |
@@ -40,6 +41,7 @@ Acompanhamento dos trabalhos entregues durante o semestre:
 ---
 
 ### 🛠️ Competências e Ferramentas
+
 Desenvolvimento focado em Gestão de Segurança e Melhores Práticas:
 
 - <img src="https://img.shields.io/badge/Identity_Management-2F3136?style=flat-square&logo=auth0&logoColor=white" /> IAM Security.
@@ -50,6 +52,7 @@ Desenvolvimento focado em Gestão de Segurança e Melhores Práticas:
 ---
 
 ### 📖 Sobre a Unidade Curricular
+
 Esta disciplina aborda os pilares da Segurança da Informação, com foco na criação de políticas robustas, gerenciamento de identidades, acessos e técnicas avançadas de detecção e mitigação de vulnerabilidades em ambientes corporativos.
 
 ---
