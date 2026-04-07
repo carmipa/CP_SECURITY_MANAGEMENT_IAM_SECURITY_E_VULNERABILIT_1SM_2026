@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/banner.png" alt="Security Management Banner" width="1003" />
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_FIAP.png" alt="FIAP Logo" width="200" />
+  <img src="./assets/fiap-logo.png" alt="FIAP Logo" width="200" />
   <br>
   <h1>🔒 Security Management, IAM & Vulnerability 1SM-2026</h1>
 </div>
